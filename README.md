@@ -1,4 +1,4 @@
-Porfolio UX Designer 2025 
+Porfolio UX Researcher 2025 
 
 Realizador: Cristian Dal Piva
 
