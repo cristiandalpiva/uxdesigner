@@ -44,7 +44,7 @@ nav {
 
 nav.sticky {
   padding: 13px 0;
-  background: #4070f4;
+  background: #68DDC1;
 }
 
 nav .navbar {
@@ -58,7 +58,7 @@ nav .navbar {
 nav .navbar .logo a {
   font-size: 24px;
   font-weight: 500;
-  color: #4070f4;
+  color: #68DDC1;
 }
 
 nav.sticky .navbar .logo a {
@@ -82,7 +82,7 @@ nav .navbar .menu li {
 }
 
 .navbar .menu li a:hover {
-  color: #4070f4;
+  color: #68DDC1;
 }
 
 nav.sticky .navbar .menu li a {
@@ -96,7 +96,7 @@ nav.sticky .navbar .menu li a:hover {
 .navbar .media-iconos a {
   font-size: 18px;
   margin: 0 6px;
-  color: #4070f4;
+  color: #68DDC1;
 }
 
 nav.sticky .navbar .media-iconos a {
@@ -119,7 +119,7 @@ nav .menu-btn,
 }
 
 nav .menu-btn {
-  color: #4070f4;
+  color: #68DDC1;
 }
 
 /*pantalla inicial*/
@@ -178,16 +178,16 @@ section .boton button {
   font-size: 25px;
   font-weight: 500;
   padding: 8px 16px;
-  background: #4070f4;
+  background: #68DDC1;
   border: 2px solid transparent;
   border-radius: 5px;
   transition: all 0.4s ease;
 }
 
 section .boton button:hover {
-  color: #4070f4;
+  color: #68DDC1;
   background-color: #fff;
-  border-color: #4070f4;
+  border-color: #68DDC1;
 }
 
 
@@ -217,7 +217,7 @@ section .boton button:hover {
 .articulo>h3{
   font-size: 20px;
   margin-top:30px;
-  color: #4070f4;
+  color: #68DDC1;
 
 }
 
@@ -241,7 +241,7 @@ section .titulo span::after{
   bottom: 0;
   height: 3px;
   width: 100%;
-  background: #4070f4;
+  background: #68DDC1;
 }
 
 section .titulo span::after{
@@ -266,16 +266,16 @@ section .titulo span::after{
   font-size: 18px;
   font-weight: 400;
   padding: 5px 10px;
-  background: #4070f4;
+  background: #68DDC1;
   border: 2px solid transparent;
   border-radius: 5px;
   transition: all 0.4s ease;
 }
 
 .articulo a:hover{
-  color: #4070f4;
+  color: #68DDC1;
   background-color: #fff;
-  border-color: #4070f4;
+  border-color: #68DDC1;
 }
 
 
@@ -316,7 +316,7 @@ margin-right: auto;
 
 .box-skills h2{
  font-weight: 500;
- background: #4070f4;
+ background: #68DDC1;
  padding-left: 35px;
  padding-top: 5px;
  padding-bottom: 5px;
@@ -335,7 +335,7 @@ margin-right: auto;
 }
 
 .box-skills i{
-  color: #4070f4;
+  color: #68DDC1;
   font-size: 20px;
   padding-right: 10px;
 }
@@ -384,7 +384,7 @@ section .titulo span::after{
   bottom: 0;
   height: 3px;
   width: 100%;
-  background: #4070f4;
+  background: #68DDC1;
 }
 
 section .titulo span::after{
@@ -560,7 +560,7 @@ height: 180px;
   }
 
   nav.sticky .navbar .menu li a:hover {
-    color: #4070f4;
+    color: #68DDC1;
   }
 
   .navbar .menu li a {
@@ -750,7 +750,7 @@ footer {
 .creditos{
   width: 100%;
   text-align: center;
-  color: #4070f4;
+  color: #68DDC1;
   margin-bottom: 10px;
   font-weight: 600;
 }
@@ -770,7 +770,7 @@ footer {
   width: 20%;
   margin: auto;
   font-size: 26px;
-  color: #4070f4;
+  color: #68DDC1;
  
 }
 
